@@ -1,0 +1,2 @@
+# vrc_check_log_of_added_friends
+VRChatにて、特定のログファイルから追加されたフレンドのページを開く
