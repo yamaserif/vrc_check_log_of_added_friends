@@ -1,3 +1,3 @@
 @echo off
-powershell "./run.ps1"
+powershell -NoProfile -ExecutionPolicy Unrestricted "./run.ps1"
 pause
